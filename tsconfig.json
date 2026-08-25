@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "module": "ES2022",
+        "moduleResolution": "bundler",
+        "skipLibCheck": true,
+        "allowJs": true,
+        "strict": true,
+        "strictPropertyInitialization": false,
+        "rootDir": "./webapp",
+        "outDir": "./dist",
+        "types": [
+            "@sapui5/types"
+        ]
+    },
+    "include": [
+        "./webapp/**/*"
+    ],
+    "exclude": [
+        "webapp/test/**/*"
+    ]
+}

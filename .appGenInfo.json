@@ -1,0 +1,33 @@
+{
+  "generationParameters": {
+    "generationDate": "Sat Aug 01 2026 21:23:42 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "SAP Business Application Studio",
+    "serviceType": "SAP System (ABAP On-Premise)",
+    "metadataFilename": "",
+    "serviceUrl": "https://my436167.s4hana.cloud.sap/sap/opu/odata4/sap/zqm_expiry_ui_v4/srvd/sap/zqm_expiry_srv/0001/",
+    "appName": "zqmexpiryui",
+    "appTitle": "",
+    "appDescription": "",
+    "appNamespace": "",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.142.12",
+    "enableEslint": true,
+    "enableTypeScript": true,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.30.0",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "ExpiryHeader"
+      },
+      {
+        "type": "Navigation Entity",
+        "value": "_WhereUsed"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```",
+    "valueHelpDownloaded": true
+  }
+}
